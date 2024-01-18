@@ -22,7 +22,7 @@ I am a fan of artificial intelligence and the world of technology. Feel free to 
 
 ## Support me
 
-[![patreon](https://img.shields.io/badge/Patreon-%23FF5900?style=for-the-badge)](https://patreon.com/IAconAlejandro)
+- [![patreon](https://img.shields.io/badge/Patreon-%23FF5900?style=for-the-badge)](https://patreon.com/IAconAlejandro)
 
 
 

@@ -18,10 +18,3 @@ I am a fan of artificial intelligence and the world of technology. Feel free to 
 
 - [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-decaroli-b5a730179/)
 - [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Ale_Decaroli)
-
-## Support me
-
-- [![patreon](https://img.shields.io/badge/Patreon-%23FF5900?style=for-the-badge)](https://patreon.com/IAconAlejandro)
-
-
-

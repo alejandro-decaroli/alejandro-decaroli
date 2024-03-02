@@ -19,4 +19,4 @@ I am a python developer 🐍 and I love creating scripts or apps with it 💚 . 
 
 ## You can find me
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-decaroli-b5a730179/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-decaroli/)
